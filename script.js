@@ -1,8 +1,4 @@
-/**
- * ALEX MERCER PORTFOLIO - MAIN JAVASCRIPT
- * Includes: Mouse glow, 3D tilt cards, typing effect, scroll reveals,
- * active nav tracking, hamburger menu, form validation, and back to top.
- */
+
 
 document.addEventListener('DOMContentLoaded', () => {
     
